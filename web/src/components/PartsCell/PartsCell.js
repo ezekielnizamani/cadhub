@@ -11,6 +11,8 @@ export const QUERY = gql`
       code
       mainImage
       createdAt
+      updatedAt
+      userId
     }
   }
 `
